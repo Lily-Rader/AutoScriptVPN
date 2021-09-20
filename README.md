@@ -1,4 +1,4 @@
-# CTech Didik Auto Script VPN
+# Auto Script VPN
 
 
 ## SUPPORT OPERATING SYSTEM
